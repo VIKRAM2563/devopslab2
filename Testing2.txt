@@ -64,3 +64,16 @@
 - Consider using a Git GUI tool like GitHub Desktop or SourceTree for a visual interface.
 
 By following these steps, you can create a separate repository for your second program, manage its version control, and collaborate with others effectively.
+
+
+
+
+git fetch origin
+
+git pull origin main
+
+git merge origin/main
+
+
+
+
